@@ -136,5 +136,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ##  Contact
 
-Author: Raj Kantilal Gajera  
+Author: RajGajera03  
 Email: rajgajera2005@gmail.com
+
