@@ -17,7 +17,15 @@ Aadhaar is the world's largest biometric ID system, yet the transactional patter
 -   Propose a **"Dynamic Resource Allocation"** framework to manage high-stress zones.
 
 ---
+## Dataset Access
+The processed dataset for this project is too large to be hosted on GitHub. You can download it from the following Google Drive link:
 
+**[Download Dataset from Google Drive](YOUR_GOOGLE_DRIVE_LINK_HERE)**
+
+> [!NOTE]
+> After downloading, please place the CSV files in the `data/processed/` directory.
+
+---
 ##  Dataset Description
 
 The analysis utilizes three primary datasets provided by UIDAI, located in `data/raw/`:
@@ -138,4 +146,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Author: RajGajera03  
 Email: rajgajera2005@gmail.com
+
 
