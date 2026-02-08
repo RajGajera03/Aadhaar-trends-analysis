@@ -77,11 +77,9 @@ The analysis utilizes three primary datasets provided by UIDAI, located in `data
 ├── data/
 │   ├── raw/                 # Original CSV datasets (Enrolment, Biometric, Demographic)
 │   └── processed/           # Cleaned and merged data (master_data.csv)
-├── notebooks/               # Jupyter notebooks for EDA and Analysis (To be added)
+├── notebooks/               # Jupyter notebooks for EDA and Analysis 
 ├── visuals/                 # Generated plots and charts
-├── reports/                 # Project documentation and PDF reports
-│   ├── 01 Report.pdf
-│   └── ...
+├── UIDAI_Final_Report.pdf   # Project documentation and PDF reports
 ├── .gitignore               # Files to exclude from Git
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
@@ -146,6 +144,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Author: RajGajera03  
 Email: rajgajera2005@gmail.com
+
 
 
 
