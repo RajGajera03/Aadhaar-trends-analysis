@@ -91,8 +91,8 @@ The analysis utilizes three primary datasets provided by UIDAI, located in `data
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/aadhaar-trends-analysis.git
-    cd aadhaar-trends-analysis
+    git clone https://github.com/RajGajera03/Aadhaar-trends-analysis.git
+    cd Aadhaar-trends-analysis
     ```
 
 2.  **Install Dependencies**
@@ -135,10 +135,6 @@ The analysis utilizes three primary datasets provided by UIDAI, located in `data
 -   Correlate with external economic indicators.
 
 ---
-
-##  License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ##  Contact
 
